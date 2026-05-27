@@ -1,0 +1,61 @@
+Month,OccupancyRate,FallRatePer1000PatientDays,StaffResponsivenessScore,FallRatePercent,StaffResponsivenessPercent,StaffResponsivenessBenchmark,Year,MonthName,MonthNumber,Quarter,YearMonth,StaffResponsivenessBenchmarkStatus,OccupancyCategory,FallRiskCategory
+2020-01-01,0.96,2.21,68.34,0.22100000000000003,0.6834,65,2020,January,1,Q1,2020-01,At or Above Benchmark,High Occupancy,Low Fall Rate
+2020-02-01,0.96,1.79,72.75,0.17900000000000002,0.7275,65,2020,February,2,Q1,2020-02,At or Above Benchmark,High Occupancy,Low Fall Rate
+2020-03-01,0.81,1.03,67.07,0.10300000000000001,0.6707,65,2020,March,3,Q1,2020-03,At or Above Benchmark,Low Occupancy,Low Fall Rate
+2020-04-01,0.94,1.97,71.21,0.197,0.7121,65,2020,April,4,Q2,2020-04,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2020-05-01,1.01,3.41,57.68,0.341,0.5768,65,2020,May,5,Q2,2020-05,Below Benchmark,Very High Occupancy,High Fall Rate
+2020-06-01,0.98,2.61,67.86,0.261,0.6786,65,2020,June,6,Q2,2020-06,At or Above Benchmark,High Occupancy,Medium Fall Rate
+2020-07-01,0.95,2.42,66.09,0.242,0.6609,65,2020,July,7,Q3,2020-07,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2020-08-01,0.94,2.09,70.38,0.209,0.7038,65,2020,August,8,Q3,2020-08,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2020-09-01,0.95,3.11,53.31,0.311,0.5331,65,2020,September,9,Q3,2020-09,Below Benchmark,Moderate Occupancy,High Fall Rate
+2020-10-01,0.92,1.6,67.55,0.16,0.6755,65,2020,October,10,Q4,2020-10,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2020-11-01,0.95,2.31,60.35,0.231,0.6035,65,2020,November,11,Q4,2020-11,Below Benchmark,Moderate Occupancy,Low Fall Rate
+2020-12-01,0.98,2.47,61.33,0.24700000000000005,0.6133,65,2020,December,12,Q4,2020-12,Below Benchmark,High Occupancy,Medium Fall Rate
+2021-01-01,1.0,3.03,61.06,0.303,0.6106,65,2021,January,1,Q1,2021-01,Below Benchmark,High Occupancy,High Fall Rate
+2021-02-01,0.99,2.35,65.23,0.23500000000000001,0.6523,65,2021,February,2,Q1,2021-02,At or Above Benchmark,High Occupancy,Low Fall Rate
+2021-03-01,0.95,2.47,64.02,0.24700000000000005,0.6402,65,2021,March,3,Q1,2021-03,Below Benchmark,Moderate Occupancy,Medium Fall Rate
+2021-04-01,0.96,1.94,70.11,0.19399999999999998,0.7011,65,2021,April,4,Q2,2021-04,At or Above Benchmark,High Occupancy,Low Fall Rate
+2021-05-01,0.94,2.54,68.16,0.254,0.6816,65,2021,May,5,Q2,2021-05,At or Above Benchmark,Moderate Occupancy,Medium Fall Rate
+2021-06-01,0.94,3.17,54.38,0.317,0.5438000000000001,65,2021,June,6,Q2,2021-06,Below Benchmark,Moderate Occupancy,High Fall Rate
+2021-07-01,0.94,2.79,64.0,0.27899999999999997,0.64,65,2021,July,7,Q3,2021-07,Below Benchmark,Moderate Occupancy,Medium Fall Rate
+2021-08-01,0.93,2.05,66.13,0.20499999999999996,0.6613,65,2021,August,8,Q3,2021-08,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2021-09-01,0.97,3.34,55.17,0.33399999999999996,0.5517,65,2021,September,9,Q3,2021-09,Below Benchmark,High Occupancy,High Fall Rate
+2021-10-01,0.95,2.44,64.03,0.244,0.6403,65,2021,October,10,Q4,2021-10,Below Benchmark,Moderate Occupancy,Medium Fall Rate
+2021-11-01,0.96,2.31,64.12,0.231,0.6412,65,2021,November,11,Q4,2021-11,Below Benchmark,High Occupancy,Low Fall Rate
+2021-12-01,0.98,2.57,60.42,0.257,0.6042000000000001,65,2021,December,12,Q4,2021-12,Below Benchmark,High Occupancy,Medium Fall Rate
+2022-01-01,1.01,3.33,58.41,0.333,0.5841,65,2022,January,1,Q1,2022-01,Below Benchmark,Very High Occupancy,High Fall Rate
+2022-02-01,0.99,3.19,59.77,0.319,0.5977,65,2022,February,2,Q1,2022-02,Below Benchmark,High Occupancy,High Fall Rate
+2022-03-01,0.96,2.78,61.32,0.27799999999999997,0.6132,65,2022,March,3,Q1,2022-03,Below Benchmark,High Occupancy,Medium Fall Rate
+2022-04-01,0.96,2.91,60.18,0.29100000000000004,0.6018,65,2022,April,4,Q2,2022-04,Below Benchmark,High Occupancy,High Fall Rate
+2022-05-01,0.95,2.49,63.07,0.249,0.6307,65,2022,May,5,Q2,2022-05,Below Benchmark,Moderate Occupancy,Medium Fall Rate
+2022-06-01,0.95,2.31,63.11,0.231,0.6311,65,2022,June,6,Q2,2022-06,Below Benchmark,Moderate Occupancy,Low Fall Rate
+2022-07-01,0.96,2.43,61.03,0.24300000000000002,0.6103000000000001,65,2022,July,7,Q3,2022-07,Below Benchmark,High Occupancy,Medium Fall Rate
+2022-08-01,0.96,3.13,59.97,0.313,0.5997,65,2022,August,8,Q3,2022-08,Below Benchmark,High Occupancy,High Fall Rate
+2022-09-01,0.95,2.81,61.53,0.281,0.6153,65,2022,September,9,Q3,2022-09,Below Benchmark,Moderate Occupancy,Medium Fall Rate
+2022-10-01,0.96,2.07,64.16,0.207,0.6416,65,2022,October,10,Q4,2022-10,Below Benchmark,High Occupancy,Low Fall Rate
+2022-11-01,0.97,3.11,57.29,0.311,0.5729,65,2022,November,11,Q4,2022-11,Below Benchmark,High Occupancy,High Fall Rate
+2022-12-01,0.98,3.21,57.18,0.321,0.5718,65,2022,December,12,Q4,2022-12,Below Benchmark,High Occupancy,High Fall Rate
+2023-01-01,0.99,3.17,58.22,0.317,0.5821999999999999,65,2023,January,1,Q1,2023-01,Below Benchmark,High Occupancy,High Fall Rate
+2023-02-01,0.99,3.39,57.12,0.339,0.5711999999999999,65,2023,February,2,Q1,2023-02,Below Benchmark,High Occupancy,High Fall Rate
+2023-03-01,0.98,3.03,59.45,0.303,0.5945,65,2023,March,3,Q1,2023-03,Below Benchmark,High Occupancy,High Fall Rate
+2023-04-01,0.96,2.73,62.57,0.27299999999999996,0.6257,65,2023,April,4,Q2,2023-04,Below Benchmark,High Occupancy,Medium Fall Rate
+2023-05-01,0.94,2.89,62.89,0.28900000000000003,0.6289,65,2023,May,5,Q2,2023-05,Below Benchmark,Moderate Occupancy,High Fall Rate
+2023-06-01,0.96,2.55,63.69,0.25499999999999995,0.6369,65,2023,June,6,Q2,2023-06,Below Benchmark,High Occupancy,Medium Fall Rate
+2023-07-01,0.95,2.42,64.93,0.242,0.6493000000000001,65,2023,July,7,Q3,2023-07,Below Benchmark,Moderate Occupancy,Low Fall Rate
+2023-08-01,0.95,2.03,66.77,0.20299999999999996,0.6677,65,2023,August,8,Q3,2023-08,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2023-09-01,0.98,2.56,65.96,0.256,0.6596,65,2023,September,9,Q3,2023-09,At or Above Benchmark,High Occupancy,Medium Fall Rate
+2023-10-01,0.98,3.07,60.44,0.307,0.6043999999999999,65,2023,October,10,Q4,2023-10,Below Benchmark,High Occupancy,High Fall Rate
+2023-11-01,0.99,2.99,61.76,0.299,0.6175999999999999,65,2023,November,11,Q4,2023-11,Below Benchmark,High Occupancy,High Fall Rate
+2023-12-01,0.99,3.03,60.32,0.303,0.6032,65,2023,December,12,Q4,2023-12,Below Benchmark,High Occupancy,High Fall Rate
+2024-01-01,0.99,3.09,60.67,0.309,0.6067,65,2024,January,1,Q1,2024-01,Below Benchmark,High Occupancy,High Fall Rate
+2024-02-01,0.98,3.15,59.14,0.315,0.5914,65,2024,February,2,Q1,2024-02,Below Benchmark,High Occupancy,High Fall Rate
+2024-03-01,0.94,2.33,63.55,0.233,0.6355,65,2024,March,3,Q1,2024-03,Below Benchmark,Moderate Occupancy,Low Fall Rate
+2024-04-01,0.95,2.01,66.19,0.20099999999999996,0.6618999999999999,65,2024,April,4,Q2,2024-04,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2024-05-01,0.95,1.79,67.01,0.17900000000000002,0.6701,65,2024,May,5,Q2,2024-05,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2024-06-01,0.95,1.98,66.53,0.198,0.6653,65,2024,June,6,Q2,2024-06,At or Above Benchmark,Moderate Occupancy,Low Fall Rate
+2024-07-01,0.96,2.51,65.87,0.25099999999999995,0.6587000000000001,65,2024,July,7,Q3,2024-07,At or Above Benchmark,High Occupancy,Medium Fall Rate
+2024-08-01,0.96,2.63,65.46,0.263,0.6546,65,2024,August,8,Q3,2024-08,At or Above Benchmark,High Occupancy,Medium Fall Rate
+2024-09-01,0.97,2.71,65.71,0.271,0.6570999999999999,65,2024,September,9,Q3,2024-09,At or Above Benchmark,High Occupancy,Medium Fall Rate
+2024-10-01,0.98,2.97,64.02,0.297,0.6402,65,2024,October,10,Q4,2024-10,Below Benchmark,High Occupancy,High Fall Rate
+2024-11-01,0.98,2.84,64.13,0.284,0.6413,65,2024,November,11,Q4,2024-11,Below Benchmark,High Occupancy,Medium Fall Rate
+2024-12-01,1.0,2.81,65.08,0.281,0.6507999999999999,65,2024,December,12,Q4,2024-12,At or Above Benchmark,High Occupancy,Medium Fall Rate
